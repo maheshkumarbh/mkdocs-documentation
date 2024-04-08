@@ -83,12 +83,13 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/maheshkumarbh
-    - icon: fontawesome/brands/discord
-      link: https://www.discord.com/channels/maheshkumarbh
-    - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/MaheshKumarBH
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/maheshkumarbh/
+    # - icon: fontawesome/brands/discord
+    #   link: https://www.discord.com/channels/maheshkumarbh
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/MaheshKumarBH
+    
 
 # Extensions
 markdown_extensions:
